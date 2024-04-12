@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473204994462",
+    "project_id": "playmingle-app",
+    "storage_bucket": "playmingle-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473204994462:android:defd2486026a18499ba68f",
+        "android_client_info": {
+          "package_name": "com.example.playmingle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArpzZ8wvgpFL8i-38Tj22Qf9Z-jc22wj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
